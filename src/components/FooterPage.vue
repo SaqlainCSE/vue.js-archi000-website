@@ -6,12 +6,12 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h3 class="text-light mb-4">Contact</h3>
-                    <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+88013-0858-6888</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+880 1308586888</p>
                     <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>archi000bd@gmail.com</p>
                     <div class="d-flex pt-2">
-                        <a class="btn btn-square btn-outline-body me-1" href="https://www.youtube.com/@archithousand"><i class="fab fa-youtube"></i></a>
-                        <a class="btn btn-square btn-outline-body me-1" href="https://www.facebook.com/archithousand"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-outline-body me-1" href="https://www.instagram.com/archithousand"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-square btn-outline-body me-1" href="https://www.youtube.com/@archithousand" target="_blank"><i class="fab fa-youtube"></i></a>
+                        <a class="btn btn-square btn-outline-body me-1" href="https://www.facebook.com/archithousand" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square btn-outline-body me-1" href="https://www.instagram.com/archithousand" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a class="btn btn-square btn-outline-body me-1" href="https://wa.me/01308586888" target="_blank"><i class="fab fa-whatsapp"></i></a>
                     </div>
                 </div>

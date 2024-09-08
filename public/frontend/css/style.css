@@ -557,6 +557,16 @@ h6,
     border-color: #3aa130;
 }
 
+a.btn.btn-primary:hover{
+    background-color: black;
+    border-color: #3aa130;
+}
+
+button.btn.btn-primary:hover{
+    background-color: black;
+    border-color: #3aa130;
+}
+
 @media (min-width: 992px) {
     .col-lg-8 {
         flex: 0 0 auto;

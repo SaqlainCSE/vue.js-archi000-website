@@ -2,7 +2,7 @@
   <div id="HeaderComponent">
     <nav class="navbar navbar-expand-lg bg-white navbar-light fixed-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
         <router-link to="/" class="navbar-brand ms-4 ms-lg-0">
-          <img class="me-3" src="/frontend/img/logo.png" alt="Icon">
+          <img class="me-3" src="/frontend/img/logo-1.png" alt="Icon">
         </router-link>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
