@@ -24,6 +24,17 @@
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
 
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+    <!-- jQuery (Required for Owl Carousel) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <!-- Owl Carousel JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+
     <!-- Customized Bootstrap Stylesheet -->
     <link href="./frontend/css/bootstrap.min.css" rel="stylesheet">
 
@@ -59,6 +70,27 @@
     <script src="./frontend/lib/tempusdominus/js/moment.min.js"></script>
     <script src="./frontend/lib/tempusdominus/js/moment-timezone.min.js"></script>
     <script src="./frontend/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+
+    <script>
+      
+      $(document).ready(function()
+      {
+      // Initialize the Owl Carousel
+        $('#testimonial-list').owlCarousel({
+          loop: true,
+          margin: 10,
+          nav: true,
+          dots: true,
+          items: 1,
+          autoplay: true,
+          autoplayTimeout: 5000,
+          autoplayHoverPause: true,
+          dotsData: true,
+        });
+      });
+
+
+    </script>
 
     <!-- Template Javascript -->
     <script src="./frontend/js/main.js"></script>
