@@ -136,7 +136,7 @@
     <div class="container-xxl py-5">
       <div class="container">
           <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-              <h4 class="section-title">Testimonial</h4>
+              <h4 class="section-title">Happy Clients</h4>
               <h1 class="display-5 mb-4">Lots Of Customers Who Trust Us And Our Services</h1>
           </div>
 
