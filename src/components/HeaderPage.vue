@@ -15,15 +15,12 @@
                 <div class="nav-item dropdown">
                     <router-link href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</router-link>
                     <div class="dropdown-menu border-0 m-0">
-                        <a href="feature.html" class="dropdown-item">Our Features</a>
-                        <a href="project.html" class="dropdown-item">Our Projects</a>
-                        <a href="team.html" class="dropdown-item">Team Members</a>
-                        <a href="appointment.html" class="dropdown-item">Appointment</a>
-                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        <a href="404.html" class="dropdown-item">404 Page</a>
+                        <router-link to="feature.html" class="dropdown-item">Our Features</router-link>
+                        <router-link to="project.html" class="dropdown-item">Our Projects</router-link>
+                        <router-link to="testimonial.html" class="dropdown-item">Our Clients</router-link>
                     </div>
                 </div>
-                <router-link to="contact" class="nav-item nav-link" active-class="active">Contact</router-link>
+                <router-link to="/contact" class="nav-item nav-link" active-class="active">Contact</router-link>
             </div>
             <router-link to="/contact" class="btn btn-primary py-2 px-4 d-none d-lg-block">Appointment</router-link>
         </div>

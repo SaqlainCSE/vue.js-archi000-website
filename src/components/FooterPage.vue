@@ -17,21 +17,21 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h3 class="text-light mb-4">Services</h3>
-                    <a class="btn btn-link" href="">Architecture</a>
-                    <a class="btn btn-link" href="">3D Animation</a>
-                    <a class="btn btn-link" href="">House Planning</a>
-                    <a class="btn btn-link" href="">Interior Design</a>
-                    <a class="btn btn-link" href="">Exterior Design</a>
-                    <a class="btn btn-link" href="">Landscaping</a>
-                    <a class="btn btn-link" href="">Restoration</a>
+                    <router-link class="btn btn-link" to="/service">Architecture</router-link>
+                    <router-link class="btn btn-link" to="/service">3D Animation</router-link>
+                    <router-link class="btn btn-link" to="/service">House Planning</router-link>
+                    <router-link class="btn btn-link" to="/service">Interior Design</router-link>
+                    <router-link class="btn btn-link" to="/service">Exterior Design</router-link>
+                    <router-link class="btn btn-link" to="/service">Landscaping</router-link>
+                    <router-link class="btn btn-link" to="/service">Restoration</router-link>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h3 class="text-light mb-4">Quick Links</h3>
-                    <router-link class="btn btn-link" to="about">About Us</router-link>
-                    <router-link class="btn btn-link" to="contact">Contact Us</router-link>
-                    <router-link class="btn btn-link" to="service">Our Services</router-link>
-                    <a class="btn btn-link" href="">Terms & Condition</a>
-                    <a class="btn btn-link" href="">Support</a>
+                    <router-link class="btn btn-link" to="/about">About Us</router-link>
+                    <router-link class="btn btn-link" to="/contact">Contact Us</router-link>
+                    <router-link class="btn btn-link" to="/service">Our Services</router-link>
+                    <a class="btn btn-link" href="#">Terms & Condition</a>
+                    <a class="btn btn-link" href="#">Support</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h3 class="text-light mb-4">Newsletter</h3>
