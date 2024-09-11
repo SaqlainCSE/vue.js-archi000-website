@@ -16,8 +16,8 @@
                     <router-link href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Others</router-link>
                     <div class="dropdown-menu border-0 m-0">
                         <router-link to="/feature" class="dropdown-item">Our Features</router-link>
-                        <router-link to="project.html" class="dropdown-item">Our Projects</router-link>
-                        <router-link to="testimonial.html" class="dropdown-item">Our Clients</router-link>
+                        <router-link to="/project" class="dropdown-item">Our Projects</router-link>
+                        <router-link to="client.html" class="dropdown-item">Our Clients</router-link>
                     </div>
                 </div>
                 <router-link to="/contact" class="nav-item nav-link" active-class="active">Contact</router-link>
