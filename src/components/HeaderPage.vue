@@ -25,7 +25,7 @@
                 </div>
                 <router-link to="contact" class="nav-item nav-link" active-class="active">Contact</router-link>
             </div>
-            <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Appointment</a>
+            <router-link to="/contact" class="btn btn-primary py-2 px-4 d-none d-lg-block">Appointment</router-link>
         </div>
     </nav>
   </div>

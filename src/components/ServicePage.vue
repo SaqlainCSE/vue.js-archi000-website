@@ -68,7 +68,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-5.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Architecture</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-6.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">3D Animation</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-7.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">House Planning</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-8.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Interior Design</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-9.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Renovation</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                         </div>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-10.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Construction</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                         </div>
                     </div>
                 </div>
