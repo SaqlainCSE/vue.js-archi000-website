@@ -5,6 +5,7 @@ import HomePage from '../components/HomePage.vue';
 import AboutPage from '../components/AboutPage.vue';
 import ServicePage from '@/components/ServicePage.vue';
 import ContactPage from '@/components/ContactPage.vue';
+import FeaturePage from '@/components/FeaturePage.vue';
 
 const routes = [
   {
@@ -15,6 +16,7 @@ const routes = [
       { path: 'about', component: AboutPage },
       { path: 'service', component: ServicePage },
       { path: 'contact', component: ContactPage },
+      { path: 'feature', component: FeaturePage },
       // Add more routes here
     ],
   },
