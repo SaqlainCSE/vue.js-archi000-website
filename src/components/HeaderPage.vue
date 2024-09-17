@@ -13,11 +13,11 @@
                 <router-link to="about" class="nav-item nav-link" active-class="active">About</router-link>
                 <router-link to="service" class="nav-item nav-link" active-class="active">Services</router-link>
                 <div class="nav-item dropdown">
-                    <router-link href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Others</router-link>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu border-0 m-0">
-                        <router-link to="/feature" class="dropdown-item">Our Features</router-link>
-                        <router-link to="/project" class="dropdown-item">Our Projects</router-link>
-                        <router-link to="/client" class="dropdown-item">Our Clients</router-link>
+                        <router-link to="/feature" class="dropdown-item">Features</router-link>
+                        <router-link to="/project" class="dropdown-item">Projects</router-link>
+                        <router-link to="/client" class="dropdown-item">Clients</router-link>
                     </div>
                 </div>
                 <router-link to="/contact" class="nav-item nav-link" active-class="active">Contact</router-link>
