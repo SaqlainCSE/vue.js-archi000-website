@@ -5,18 +5,10 @@ src/components/Layout.vue
       <main>
 
         <div class="social-media-sidebar">
-          <a href="https://wa.me/01308586888" target="_blank">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" class="icon">
-          </a>
-          <a href="https://www.facebook.com/archithousand" target="_blank">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" class="icon">
-          </a>
-          <a href="https://www.instagram.com/archithousand" target="_blank">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" class="icon">
-          </a>
-          <a href="https://www.youtube.com/@archithousand" target="_blank">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" class="iconYoutube">
-          </a>
+          <a class="btn btn-square btn-outline-body me-1" href="https://www.youtube.com/@archithousand" target="_blank"><i class="fab fa-youtube"></i></a>
+          <a class="btn btn-square btn-outline-body me-1" href="https://www.facebook.com/archithousand" target="_blank"><i class="fab fa-facebook-f"></i></a>
+          <a class="btn btn-square btn-outline-body me-1" href="https://www.instagram.com/archithousand" target="_blank"><i class="fab fa-instagram"></i></a>
+          <a class="btn btn-square btn-outline-body me-1" href="https://wa.me/01308586888" target="_blank"><i class="fab fa-whatsapp"></i></a>
         </div>
 
         <router-view />
@@ -45,7 +37,7 @@ src/components/Layout.vue
 
   .social-media-sidebar {
     position: fixed;
-    top: 22%;
+    top: 55%;
     left: 0;
     transform: translateY(-50%);
     display: flex;

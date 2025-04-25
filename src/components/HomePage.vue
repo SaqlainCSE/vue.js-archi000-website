@@ -1,7 +1,7 @@
 <template>
     <div id="HomePage">
       <!-- Carousel Start -->
-      <div class="container-fluid p-0 pb-5 wow fadeIn" data-wow-delay="0.1s">
+      <div class="container-fluid p-0 wow fadeIn" data-wow-delay="0.1s">
         <div id="headerCarousel" class="carousel slide" data-bs-ride="carousel">
           <!-- Indicators/Dots -->
           <div class="carousel-indicators">
@@ -18,11 +18,11 @@
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
-                    <div class="col-10 col-lg-8">
+                    <!-- <div class="col-10 col-lg-8">
                       <h1 class="display-1 text-white">Best Architecture And Interior Design Services</h1>
                       <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
                       <a href="#" class="btn btn-primary py-3 px-5">Read More</a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
@@ -33,11 +33,11 @@
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
-                    <div class="col-10 col-lg-8">
+                    <!-- <div class="col-10 col-lg-8">
                       <h1 class="display-1 text-white">Best Architecture And Interior Design Services</h1>
                       <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
                       <a href="#" class="btn btn-primary py-3 px-5">Read More</a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
@@ -48,11 +48,11 @@
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
-                    <div class="col-10 col-lg-8">
+                    <!-- <div class="col-10 col-lg-8">
                       <h1 class="display-1 text-white">Best Architecture And Interior Design Services</h1>
                       <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
                       <a href="#" class="btn btn-primary py-3 px-5">Read More</a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
@@ -86,6 +86,12 @@
   background-color: black;
   border-color: green;
 }
+
+.carousel-inner {
+  height: 100vh; 
+  padding: 100px;
+}
+
 
 </style>
   

@@ -41,7 +41,7 @@
                             <h3 class="mb-0">Experience</h3>
                         </div>
                     </div>
-                    <a class="btn btn-primary py-3 px-5" href="#">Read More</a>
+                    <!-- <a class="btn btn-primary py-3 px-5" href="#">Read More</a> -->
                 </div>
             </div>
         </div>
@@ -116,9 +116,9 @@
                                 <a class="btn btn-square" href="https://www.instagram.com/archithousand" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
-                        <div class="bg-light text-center p-4">
+                        <div class="bg-light text-center p-4" style="height: 150px;">
                             <h3 class="mt-2">T M Rabby Ahmed Akash</h3>
-                            <span class="text-primary">Architect (CEO)</span>
+                            <span class="text-primary">Lead Architect</span>
                         </div>
                     </div>
                 </div>
@@ -132,9 +132,9 @@
                                 <a class="btn btn-square" href="https://www.linkedin.com/in/saqlain-cse/" target="_blank"><i class="fab fa-linkedin"></i></a>
                             </div>
                         </div>
-                        <div class="bg-light text-center p-4">
+                        <div class="bg-light text-center p-4" style="height: 150px;">
                             <h3 class="mt-2">Saqlain Mustak</h3>
-                            <span class="text-primary">Software Engineer (CTO)</span>
+                            <span class="text-primary">Tech Lead Engineer</span>
                         </div>
                     </div>
                 </div>

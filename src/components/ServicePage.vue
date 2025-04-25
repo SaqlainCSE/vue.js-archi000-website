@@ -68,7 +68,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-5.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Architecture</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-6.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">3D Animation</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-7.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">House Planning</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-8.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Interior Design</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-9.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Renovation</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                             <img class="mb-4" src="/frontend/img/icons/icon-10.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Construction</h3>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -133,16 +133,17 @@
     <!-- Service End -->
 
     <!-- Testimonial Start -->
-    <div class="container-xxl py-5">
+
+    <!-- <div class="container-xxl py-5">
+
+
       <div class="container">
           <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
               <h4 class="section-title">Happy Clients</h4>
               <h1 class="display-5 mb-4">Lots Of Customers Who Trust Us And Our Services</h1>
           </div>
 
-          <!-- Testimonial Carousel -->
           <div class="testimonial-carousel owl-carousel wow fadeInUp" data-wow-delay="0.1s">
-              <!-- Testimonial 1 -->
               <div class="testimonial-item text-center">
                   <img class="img-fluid mb-3" src="/frontend/img/testimonial-1.jpg" alt="Client 1" style="width: 100px; border-radius: 50%;">
                   <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
@@ -150,7 +151,6 @@
                   <span class="text-primary">Laywer</span>
               </div>
 
-              <!-- Testimonial 2 -->
               <div class="testimonial-item text-center">
                   <img class="img-fluid mb-3" src="/frontend/img/testimonial-2.jpg" alt="Client 2" style="width: 100px; border-radius: 50%;">
                   <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
@@ -158,7 +158,6 @@
                   <span class="text-primary">Engineer</span>
               </div>
 
-              <!-- Testimonial 3 -->
               <div class="testimonial-item text-center">
                   <img class="img-fluid mb-3" src="/frontend/img/testimonial-3.jpg" alt="Client 3" style="width: 100px; border-radius: 50%;">
                   <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
@@ -167,9 +166,7 @@
               </div>
           </div>
       </div>
-    </div>
-
-
+    </div> -->
     <!-- Testimonial End -->
 
     </div>

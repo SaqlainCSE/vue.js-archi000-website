@@ -12,14 +12,14 @@
                 <router-link to="/" class="nav-item nav-link" exact-active-class="active">Home</router-link>
                 <router-link to="about" class="nav-item nav-link" exact-active-class="active">About</router-link>
                 <router-link to="service" class="nav-item nav-link" exact-active-class="active">Services</router-link>
-                <div class="nav-item dropdown">
+                <!-- <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu border-0 m-0">
                         <router-link to="/feature" class="dropdown-item">Features</router-link>
                         <router-link to="/project" class="dropdown-item">Projects</router-link>
                         <router-link to="/client" class="dropdown-item">Clients</router-link>
                     </div>
-                </div>
+                </div> -->
                 <router-link to="/contact" class="nav-item nav-link" exact-active-class="active">Contact</router-link>
             </div>
             <router-link to="/contact" class="btn btn-primary py-2 px-4 d-none d-lg-block">Appointment</router-link>
