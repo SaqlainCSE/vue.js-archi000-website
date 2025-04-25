@@ -30,8 +30,8 @@
                     <router-link class="btn btn-link" to="/about">About Us</router-link>
                     <router-link class="btn btn-link" to="/contact">Contact Us</router-link>
                     <router-link class="btn btn-link" to="/service">Our Services</router-link>
-                    <a class="btn btn-link" href="#">Terms & Condition</a>
-                    <a class="btn btn-link" href="#">Support</a>
+                    <!-- <a class="btn btn-link" href="#">Terms & Condition</a>
+                    <a class="btn btn-link" href="#">Support</a> -->
                 </div>
                 <!-- <div class="col-lg-3 col-md-6">
                     <h3 class="text-light mb-4">Newsletter</h3>
