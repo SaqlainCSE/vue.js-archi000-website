@@ -38,7 +38,7 @@ src/components/Layout.vue
   .social-media-sidebar {
     position: fixed;
     top: 55%;
-    left: 0;
+    right: 0;
     transform: translateY(-50%);
     display: flex;
     flex-direction: column;
