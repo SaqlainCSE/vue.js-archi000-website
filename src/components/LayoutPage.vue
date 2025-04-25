@@ -73,5 +73,11 @@ src/components/Layout.vue
     transform: scale(1.2); /* Slightly enlarge the icon */
 }
 
+@media (max-width: 767.98px) {
+  .social-media-sidebar {
+    display: none !important;        /* Hide sidebar on mobile */
+  }
+}
+
   </style>
   

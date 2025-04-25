@@ -46,7 +46,7 @@
         <div class="container-fluid copyright">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0"><span id="spanYear"></span>
                         &copy; <router-link to="/">ARCHITHOUSAND</router-link>, All Right Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
@@ -65,7 +65,13 @@
 <script>
 export default {
   name: 'FooterComponent',
+
+  mounted() {
+    const currentYear = new Date().getFullYear();
+    document.getElementById('spanYear').innerText = currentYear;
+  }
 };
+
 </script>
 
 <style scoped>

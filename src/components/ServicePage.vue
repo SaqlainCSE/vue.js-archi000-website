@@ -27,7 +27,7 @@
                             <img src="/frontend/img/icons/icon-2.png" alt="Icon">
                         </div>
                         <h3 class="mb-3">Design Approach</h3>
-                        <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
+                        <p class="mb-0 ">Our design approach focuses on blending elegance with functionality. We prioritize clean layouts, high-quality visuals, and intuitive navigation to showcase architectural creativity.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -36,7 +36,7 @@
                             <img src="/frontend/img/icons/icon-3.png" alt="Icon">
                         </div>
                         <h3 class="mb-3">Innovative Solutions</h3>
-                        <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
+                        <p class="mb-0">We embrace cutting-edge technologies and creative thinking to deliver innovative solutions tailored to each project. From sustainable design strategies to smart space utilization, our goal is to exceed expectations through unique, forward-thinking approaches that redefine modern architecture.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -45,7 +45,7 @@
                             <img src="/frontend/img/icons/icon-4.png" alt="Icon">
                         </div>
                         <h3 class="mb-3">Project Management</h3>
-                        <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
+                        <p class="mb-0">Our project management ensures every phase runs smoothly—from initial concept to final delivery. With clear communication, efficient timelines, and budget control, we coordinate all aspects to keep your project on track, ensuring quality results and client satisfaction.</p>
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="/frontend/img/icons/icon-5.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Architecture</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
+                            <!-- <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p> -->
                             <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="/frontend/img/icons/icon-6.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">3D Animation</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
+                            <!-- <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p> -->
                             <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="/frontend/img/icons/icon-7.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">House Planning</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
+                            <!-- <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p> -->
                             <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="/frontend/img/icons/icon-8.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Interior Design</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
+                            <!-- <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p> -->
                             <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="/frontend/img/icons/icon-9.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Renovation</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
+                            <!-- <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p> -->
                             <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>
@@ -122,7 +122,7 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="/frontend/img/icons/icon-10.png" style="width: 64px; height: 64px;" alt="Icon">
                             <h3 class="mb-3">Construction</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
+                            <!-- <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p> -->
                             <!-- <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a> -->
                         </div>
                     </div>

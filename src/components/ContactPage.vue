@@ -75,7 +75,7 @@
                                 </div>
                             </div>
                             <div class="col-12">
-                                <a class="btn btn-primary w-100 py-3" href="#">Send Message</a>
+                                <button type="button" class="btn btn-primary w-100 py-3" @click="sendToWhatsApp">Send Message</button>
                             </div>
                         </div>
                     </form>
@@ -99,8 +99,29 @@
   </template>
   
   <script>
-  export default {
-    name: 'ContactPage',
-  };
-  </script>
+export default {
+  name: 'ContactPage',
+
+  methods: {
+    sendToWhatsApp() {
+      const name = document.getElementById("name").value.trim();
+      const email = document.getElementById("email").value.trim();
+      const subject = document.getElementById("subject").value.trim();
+      const message = document.getElementById("message").value.trim();
+
+      if (!name || !email || !subject || !message) {
+        alert("Please fill out all fields before sending.");
+        return;
+      }
+
+      const phoneNumber = "8801308586888"; // Your WhatsApp number (no '+' or dashes)
+      const text = `Name: ${name}%0AEmail: ${email}%0ASubject: ${subject}%0AMessage: ${message}`;
+      const url = `https://wa.me/${phoneNumber}?text=${text}`;
+
+      window.open(url, "_blank");
+    }
+  }
+}
+</script>
+
   

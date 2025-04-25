@@ -99,49 +99,53 @@
 
     <!-- Team Start -->
     <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h4 class="section-title">Team Members</h4>
-                <h1 class="display-5 mb-4">We Are Creative Team For Your Dream Home</h1>
-            </div>
-            <div class="row g-0 team-items">
-                <div class="member">
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item position-relative">
-                        <div class="position-relative">
-                            <img class="img-fluid" src="/frontend/img/team-1.jpg" alt="">
-                            <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/archithousand" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://www.youtube.com/@archithousand" target="_blank"><i class="fab fa-youtube"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/archithousand" target="_blank"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="bg-light text-center p-4" style="height: 150px;">
-                            <h3 class="mt-2">T M Rabby Ahmed Akash</h3>
-                            <span class="text-primary">Lead Architect</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="team-item position-relative">
-                        <div class="position-relative">
-                            <img class="img-fluid" src="/frontend/img/team-2.jpg" alt="">
-                            <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://github.com/SaqlainCSE" target="_blank"><i class="fab fa-github"></i></a>
-                                <a class="btn btn-square" href="https://saqlaincse.wixsite.com/my-site" target="_blank"><i class="bi bi-code-square"></i></a>
-                                <a class="btn btn-square" href="https://www.linkedin.com/in/saqlain-cse/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="bg-light text-center p-4" style="height: 150px;">
-                            <h3 class="mt-2">Saqlain Mustak</h3>
-                            <span class="text-primary">Tech Lead Engineer</span>
-                        </div>
-                    </div>
-                </div>
-                </div>
-            </div>
-        </div>
+  <div class="container">
+    <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+      <h4 class="section-title">Team Members</h4>
+      <h1 class="display-5 mb-4">We Are Creative Team For Your Dream Home</h1>
     </div>
+    
+    <div class="justify-content-center row g-4">
+      <!-- Member 1 -->
+      <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="team-item position-relative">
+          <div class="position-relative">
+            <img class="img-fluid w-100" src="/frontend/img/team-1.jpg" alt="">
+            <div class="team-social text-center">
+              <a class="btn btn-square" href="https://www.facebook.com/archithousand" target="_blank"><i class="fab fa-facebook-f"></i></a>
+              <a class="btn btn-square" href="https://www.youtube.com/@archithousand" target="_blank"><i class="fab fa-youtube"></i></a>
+              <a class="btn btn-square" href="https://www.instagram.com/archithousand" target="_blank"><i class="fab fa-instagram"></i></a>
+            </div>
+          </div>
+          <div class="bg-light text-center p-4" style="height: 150px;">
+            <h3 class="mt-2">T M Rabby Ahmed Akash</h3>
+            <span class="text-primary">Lead Architect</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Member 2 -->
+      <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0.5s">
+        <div class="team-item position-relative">
+          <div class="position-relative">
+            <img class="img-fluid w-100" src="/frontend/img/team-2.jpg" alt="">
+            <div class="team-social text-center">
+              <a class="btn btn-square" href="https://github.com/SaqlainCSE" target="_blank"><i class="fab fa-github"></i></a>
+              <a class="btn btn-square" href="https://saqlaincse.wixsite.com/my-site" target="_blank"><i class="bi bi-code-square"></i></a>
+              <a class="btn btn-square" href="https://www.linkedin.com/in/saqlain-cse/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            </div>
+          </div>
+          <div class="bg-light text-center p-4" style="height: 150px;">
+            <h3 class="mt-2">Saqlain Mustak</h3>
+            <span class="text-primary">Tech Lead Engineer</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- You can add more members here using same structure -->
+    </div>
+  </div>
+</div>
     <!-- Team End -->
 
     </div>

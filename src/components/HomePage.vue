@@ -92,6 +92,26 @@
   padding: 100px;
 }
 
+@media (max-width: 767.98px) {
+  .carousel-inner{
+    height: auto;         /* Allow content to define height */
+    padding: 0px;   /* Smaller padding on mobile */
+  }
+
+  .carousel-inner img {
+    margin-top: 100px;
+  }
+
+  .carousel-control-prev{
+    margin-top: 100px;
+  }
+
+  .carousel-control-next{
+    margin-top: 100px;
+  }
+  
+}
+
 
 </style>
   
