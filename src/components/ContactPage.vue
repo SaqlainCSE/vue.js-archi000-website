@@ -98,29 +98,41 @@
     </div>
   </template>
   
-  <script>
-export default {
-  name: 'ContactPage',
+<script>
+    export default {
+    name: 'ContactPage',
 
-  methods: {
+    methods: {
     sendToWhatsApp() {
-      const name = document.getElementById("name").value.trim();
-      const email = document.getElementById("email").value.trim();
-      const subject = document.getElementById("subject").value.trim();
-      const message = document.getElementById("message").value.trim();
+        const nameEl = document.getElementById("name");
+        const emailEl = document.getElementById("email");
+        const subjectEl = document.getElementById("subject");
+        const messageEl = document.getElementById("message");
 
-      if (!name || !email || !subject || !message) {
+        const name = nameEl.value.trim();
+        const email = emailEl.value.trim();
+        const subject = subjectEl.value.trim();
+        const message = messageEl.value.trim();
+
+        if (!name || !email || !subject || !message) {
         alert("Please fill out all fields before sending.");
         return;
-      }
+        }
 
-      const phoneNumber = "8801308586888"; // Your WhatsApp number (no '+' or dashes)
-      const text = `Name: ${name}%0AEmail: ${email}%0ASubject: ${subject}%0AMessage: ${message}`;
-      const url = `https://wa.me/${phoneNumber}?text=${text}`;
+        const phoneNumber = "8801308586888";
+        const text = `Name: ${name}%0AEmail: ${email}%0ASubject: ${subject}%0AMessage: ${message}`;
+        const url = `https://wa.me/${phoneNumber}?text=${text}`;
 
-      window.open(url, "_blank");
+        window.open(url, "_blank");
+
+        // ✅ Clear the form
+        nameEl.value = '';
+        emailEl.value = '';
+        subjectEl.value = '';
+        messageEl.value = '';
     }
-  }
+    }
+
 }
 </script>
 
