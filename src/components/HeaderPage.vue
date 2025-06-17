@@ -11,6 +11,7 @@
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <router-link to="/" class="nav-item nav-link" exact-active-class="active">Home</router-link>
                 <router-link to="about" class="nav-item nav-link" exact-active-class="active">About</router-link>
+                <router-link to="project" class="nav-item nav-link" exact-active-class="active">Portfolio</router-link>
                 <router-link to="service" class="nav-item nav-link" exact-active-class="active">Services</router-link>
                 <!-- <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
