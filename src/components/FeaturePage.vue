@@ -26,7 +26,7 @@
                         <div class="row g-4">
                             <div class="col-12">
                                 <div class="d-flex align-items-start">
-                                    <img class="flex-shrink-0" src="/frontend/img/icons/icon-2.png" alt="Icon">
+                                    <img loading="lazy" class="flex-shrink-0" src="/frontend/img/icons/icon-2.png" alt="Icon">
                                     <div class="ms-4">
                                         <h3>Design Approach</h3>
                                         <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
@@ -35,7 +35,7 @@
                             </div>
                             <div class="col-12">
                                 <div class="d-flex align-items-start">
-                                    <img class="flex-shrink-0" src="/frontend/img/icons/icon-3.png" alt="Icon">
+                                    <img loading="lazy" class="flex-shrink-0" src="/frontend/img/icons/icon-3.png" alt="Icon">
                                     <div class="ms-4">
                                         <h3>Innovative Solutions</h3>
                                         <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
@@ -44,7 +44,7 @@
                             </div>
                             <div class="col-12">
                                 <div class="d-flex align-items-start">
-                                    <img class="flex-shrink-0" src="/frontend/img/icons/icon-4.png" alt="Icon">
+                                    <img loading="lazy" class="flex-shrink-0" src="/frontend/img/icons/icon-4.png" alt="Icon">
                                     <div class="ms-4">
                                         <h3>Project Management</h3>
                                         <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
@@ -55,8 +55,8 @@
                     </div>
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="feature-img">
-                            <img class="img-fluid" src="/frontend/img/about-2.jpg" alt="">
-                            <img class="img-fluid" src="/frontend/img/about-1.jpg" alt="">
+                            <img loading="lazy" class="img-fluid" src="/frontend/img/about-2.jpg" alt="">
+                            <img loading="lazy" class="img-fluid" src="/frontend/img/about-1.jpg" alt="">
                         </div>
                     </div>
                 </div>

@@ -22,8 +22,8 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="/frontend/img/Ullapara/3.webp" alt="">
-                        <img class="img-fluid" src="/frontend/img/Ullapara/10.webp" alt="">
+                        <img loading="lazy" class="img-fluid" src="/frontend/img/Ullapara/3.webp" alt="">
+                        <img loading="lazy" class="img-fluid" src="/frontend/img/Ullapara/10.webp" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -61,7 +61,7 @@
                     <div class="row g-4" style="text-align: justify;">
                         <div class="col-12">
                             <div class="d-flex align-items-start">
-                                <!-- <img class="flex-shrink-0" src="/frontend/img/icons/icon-2.png" alt="Icon"> -->
+                                <!-- <img loading="lazy" class="flex-shrink-0" src="/frontend/img/icons/icon-2.png" alt="Icon"> -->
                                 <div class="ms-4">
                                     <h3>Design Approach</h3>
                                     <p class="mb-0">We focus on context-driven, creative designs that tell a unique story and enhance the user experience through thoughtful architecture.</p>
@@ -70,7 +70,7 @@
                         </div>
                         <div class="col-12">
                             <div class="d-flex align-items-start">
-                                <!-- <img class="flex-shrink-0" src="/frontend/img/icons/icon-3.png" alt="Icon"> -->
+                                <!-- <img loading="lazy" class="flex-shrink-0" src="/frontend/img/icons/icon-3.png" alt="Icon"> -->
                                 <div class="ms-4">
                                     <h3>Innovative Solutions</h3>
                                     <p class="mb-0">By combining modern technology with design expertise, we create smart, adaptive solutions tailored to meet each project’s distinct challenges.</p>
@@ -79,7 +79,7 @@
                         </div>
                         <div class="col-12">
                             <div class="d-flex align-items-start">
-                                <!-- <img class="flex-shrink-0" src="/frontend/img/icons/icon-4.png" alt="Icon"> -->
+                                <!-- <img loading="lazy" class="flex-shrink-0" src="/frontend/img/icons/icon-4.png" alt="Icon"> -->
                                 <div class="ms-4">
                                     <h3>Project Management</h3>
                                     <p class="mb-0">Our efficient project management ensures smooth coordination, clear communication, and timely delivery without compromising quality.</p>
@@ -90,9 +90,9 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     
-                        <img class="img-fluid" src="/frontend/img/Sarker Duplex/5.webp" alt=""><br><br>
-                        <img class="img-fluid" src="/frontend/img/Sarker Duplex/6.webp" alt=""><br><br>
-                        <img class="img-fluid" src="/frontend/img/VILLA FABULOSA/1.webp" alt="">
+                        <img loading="lazy" class="img-fluid" src="/frontend/img/Sarker Duplex/5.webp" alt=""><br><br>
+                        <img loading="lazy" class="img-fluid" src="/frontend/img/Sarker Duplex/6.webp" alt=""><br><br>
+                        <img loading="lazy" class="img-fluid" src="/frontend/img/VILLA FABULOSA/1.webp" alt="">
 
                 </div>
             </div>
@@ -113,7 +113,7 @@
       <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
         <div class="team-item position-relative">
           <div class="position-relative">
-            <img class="img-fluid w-100" src="/frontend/img/team-1.jpg" alt="" style="height: 290px;">
+            <img loading="lazy" class="img-fluid w-100" src="/frontend/img/team-1.jpg" alt="" style="height: 290px;">
             <div class="team-social text-center">
               <a class="btn btn-square" href="https://www.facebook.com/archithousand" target="_blank"><i class="fab fa-facebook-f"></i></a>
               <a class="btn btn-square" href="https://www.youtube.com/@archithousand" target="_blank"><i class="fab fa-youtube"></i></a>
@@ -131,7 +131,7 @@
       <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0.5s">
         <div class="team-item position-relative">
           <div class="position-relative">
-            <img class="img-fluid w-100" src="/frontend/img/team-2.jpeg" alt="" style="height: 290px;">
+            <img loading="lazy" class="img-fluid w-100" src="/frontend/img/team-2.jpeg" alt="" style="height: 290px;">
             <div class="team-social text-center">
               <a class="btn btn-square" href="https://github.com/SaqlainCSE" target="_blank"><i class="fab fa-github"></i></a>
               <a class="btn btn-square" href="https://saqlaincse.wixsite.com/my-site" target="_blank"><i class="bi bi-code-square"></i></a>
@@ -152,7 +152,7 @@
       <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
         <div class="team-item position-relative">
           <div class="position-relative">
-            <img class="img-fluid w-100" src="/frontend/img/team-3.jpeg" alt="" style="height: 290px;">
+            <img loading="lazy" class="img-fluid w-100" src="/frontend/img/team-3.jpeg" alt="" style="height: 290px;">
             <div class="team-social text-center">
               <a class="btn btn-square" href="https://www.facebook.com/archithousand" target="_blank"><i class="fab fa-facebook-f"></i></a>
               <a class="btn btn-square" href="https://www.youtube.com/@archithousand" target="_blank"><i class="fab fa-youtube"></i></a>
@@ -169,7 +169,7 @@
       <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
         <div class="team-item position-relative">
           <div class="position-relative">
-            <img class="img-fluid w-100" src="/frontend/img/team-4.jpeg" alt="" style="height: 290px;">
+            <img loading="lazy" class="img-fluid w-100" src="/frontend/img/team-4.jpeg" alt="" style="height: 290px;">
             <div class="team-social text-center">
               <a class="btn btn-square" href="https://www.facebook.com/archithousand" target="_blank"><i class="fab fa-facebook-f"></i></a>
               <a class="btn btn-square" href="https://www.youtube.com/@archithousand" target="_blank"><i class="fab fa-youtube"></i></a>
@@ -186,7 +186,7 @@
       <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
         <div class="team-item position-relative">
           <div class="position-relative">
-            <img class="img-fluid w-100" src="/frontend/img/team-5.jpeg" alt="" style="height: 290px;">
+            <img loading="lazy" class="img-fluid w-100" src="/frontend/img/team-5.jpeg" alt="" style="height: 290px;">
             <div class="team-social text-center">
               <a class="btn btn-square" href="https://www.facebook.com/archithousand" target="_blank"><i class="fab fa-facebook-f"></i></a>
               <a class="btn btn-square" href="https://www.youtube.com/@archithousand" target="_blank"><i class="fab fa-youtube"></i></a>
@@ -203,7 +203,7 @@
       <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
         <div class="team-item position-relative">
           <div class="position-relative">
-            <img class="img-fluid w-100" src="/frontend/img/team-6.jpeg" alt="" style="height: 290px;">
+            <img loading="lazy" class="img-fluid w-100" src="/frontend/img/team-6.jpeg" alt="" style="height: 290px;">
             <div class="team-social text-center">
               <a class="btn btn-square" href="https://www.facebook.com/archithousand" target="_blank"><i class="fab fa-facebook-f"></i></a>
               <a class="btn btn-square" href="https://www.youtube.com/@archithousand" target="_blank"><i class="fab fa-youtube"></i></a>
@@ -220,7 +220,7 @@
       <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
         <div class="team-item position-relative">
           <div class="position-relative">
-            <img class="img-fluid w-100" src="/frontend/img/team-7.jpeg" alt="" style="height: 290px;">
+            <img loading="lazy" class="img-fluid w-100" src="/frontend/img/team-7.jpeg" alt="" style="height: 290px;">
             <div class="team-social text-center">
               <a class="btn btn-square" href="https://www.facebook.com/archithousand" target="_blank"><i class="fab fa-facebook-f"></i></a>
               <a class="btn btn-square" href="https://www.youtube.com/@archithousand" target="_blank"><i class="fab fa-youtube"></i></a>
