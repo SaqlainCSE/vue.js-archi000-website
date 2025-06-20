@@ -134,7 +134,8 @@
             <img loading="lazy" class="img-fluid w-100" src="/frontend/img/team-2.jpeg" alt="" style="height: 290px;">
             <div class="team-social text-center">
               <a class="btn btn-square" href="https://github.com/SaqlainCSE" target="_blank"><i class="fab fa-github"></i></a>
-              <a class="btn btn-square" href="https://saqlaincse.wixsite.com/my-site" target="_blank"><i class="bi bi-code-square"></i></a>
+              <!-- <a class="btn btn-square" href="https://saqlaincse.wixsite.com/my-site" target="_blank"><i class="bi bi-code-square"></i></a> -->
+              <a class="btn btn-square" href="https://saqlain.pythonanywhere.com/" target="_blank"><i class="bi bi-code-square"></i></a>
               <a class="btn btn-square" href="https://www.linkedin.com/in/saqlain-cse/" target="_blank"><i class="fab fa-linkedin"></i></a>
             </div>
           </div>

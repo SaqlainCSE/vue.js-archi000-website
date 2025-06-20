@@ -24,7 +24,7 @@
             <!-- First Slide -->
 
             <div class="carousel-item active">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/1.webp" alt="Slide 3">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/1.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -39,7 +39,7 @@
             </div>
 
             <div class="carousel-item">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/2.webp" alt="Slide 3">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/2.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -54,7 +54,7 @@
             </div>
 
             <div class="carousel-item">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/3.webp" alt="Slide 3">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/3.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -69,7 +69,7 @@
             </div>
 
             <div class="carousel-item">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/4.webp" alt="Slide 3">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/4.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -84,7 +84,7 @@
             </div>
 
             <div class="carousel-item">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/5.webp" alt="Slide 3">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/5.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -99,7 +99,7 @@
             </div>
 
             <div class="carousel-item">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/6.webp" alt="Slide 3">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/6.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -114,7 +114,7 @@
             </div>
 
             <div class="carousel-item">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/7.webp" alt="Slide 3">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/7.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -129,7 +129,7 @@
             </div>
 
             <div class="carousel-item">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/8.webp" alt="Slide 1">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/8.webp" alt="Slide 1">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -144,7 +144,7 @@
             </div>
             <!-- Second Slide -->
             <div class="carousel-item">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/9.webp" alt="Slide 2">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/9.webp" alt="Slide 2">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -159,7 +159,7 @@
             </div>
             <!-- Third Slide -->
             <div class="carousel-item">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/10.webp" alt="Slide 3">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/10.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -174,7 +174,7 @@
             </div>
 
             <div class="carousel-item">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/11.webp" alt="Slide 3">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/11.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -189,7 +189,7 @@
             </div>
 
             <div class="carousel-item">
-              <img loading="lazy" class="img-fluid" src="/frontend/img/SLIDEING/12.webp" alt="Slide 3">
+              <img loading="lazy" class="img-responsive" src="/frontend/img/SLIDEING/12.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -228,6 +228,14 @@
 
 <style scoped>
 
+@media (min-width: 900px) and (max-width: 1440px) {
+
+    .img-responsive {
+      width: 1160px !important;
+      height: 660px !important;
+  }
+}
+
 .slideInLeft:hover {
   background-color: black;
   border-color: green;
@@ -256,6 +264,17 @@
     margin-top: 100px;
   }
   
+}
+
+@media (min-width: 1440px) and (max-width: 2000px) { 
+    .carousel-inner {
+        height: 77vh !important; /* Adjust as needed */
+    }
+
+    .img-responsive {
+      width: 1270px !important;
+      height: 660px !important;
+  }
 }
 
 
