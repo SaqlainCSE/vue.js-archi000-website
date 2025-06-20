@@ -77,6 +77,11 @@ src/components/Layout.vue
   .social-media-sidebar {
     display: none !important;        /* Hide sidebar on mobile */
   }
+
+  main {
+    min-height: 40vh !important;
+  }
+
 }
 
   </style>
