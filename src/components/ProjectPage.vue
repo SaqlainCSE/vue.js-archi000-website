@@ -1,7 +1,7 @@
 <template>
     <div id="ProjectComponent">
         <!-- Page Header Start -->
-        <!-- <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
+        <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
             <div class="container py-5">
                 <h1 class="display-1 text-white animated slideInDown">Projects</h1>
                 <nav aria-label="breadcrumb animated slideInDown">
@@ -12,7 +12,7 @@
                     </ol>
                 </nav>
             </div>
-        </div> -->
+        </div>
         <!-- Page Header End -->
 
 
@@ -45,70 +45,196 @@
                                 <div class="row g-4">
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/3.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/1.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/8.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/2.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/10.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/3.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/1.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/4.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/11.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/5.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/12.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/6.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/23.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/7.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/2.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/8.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/28.1.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/9.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/29.1.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/10.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/11.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/12.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/13.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/14.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/15.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/16.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/17.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/18.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/19.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/20.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/21.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/22.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/23.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/24.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/25.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/26.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/27.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Ullapara/28.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
@@ -146,56 +272,63 @@ The staircase design draws inspiration from the traditional shaako (bamboo footb
                                 <div class="row g-4">
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/1.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/1.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/2.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/2.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/3.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/3.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/4.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/4.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/5.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/5.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/6.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/6.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/7.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/7.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/8.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/8.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/VILLA FABULOSA/9.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
@@ -232,84 +365,119 @@ The staircase design draws inspiration from the traditional shaako (bamboo footb
                                 <div class="row g-4">
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/1.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/1.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/2.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/2.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/3.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/3.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/4.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/4.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/5.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/5.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/6.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/6.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/7.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/7.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/8.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/8.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/9.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/9.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/10.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/10.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/11.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/11.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" style="min-height: 250px;">
                                         <div class="position-relative h-100">
-                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/12.jpg"
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/12.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/13.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/14.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/15.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/16.webp"
+                                                style="object-fit: cover;" alt="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" style="min-height: 250px;">
+                                        <div class="position-relative h-100">
+                                            <img class="position-absolute img-fluid w-100 h-100" src="/frontend/img/Sarker Duplex/17.webp"
                                                 style="object-fit: cover;" alt="">
                                         </div>
                                     </div>

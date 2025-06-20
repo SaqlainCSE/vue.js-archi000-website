@@ -27,7 +27,7 @@
                             <img src="/frontend/img/icons/icon-2.png" alt="Icon">
                         </div>
                         <h3 class="mb-3">Design Approach</h3>
-                        <p class="mb-0 ">Our design approach focuses on blending elegance with functionality. We prioritize clean layouts, high-quality visuals, and intuitive navigation to showcase architectural creativity.</p>
+                        <p class="mb-0 ">We focus on context-driven, creative designs that tell a unique story and enhance the user experience through thoughtful architecture.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -36,7 +36,7 @@
                             <img src="/frontend/img/icons/icon-3.png" alt="Icon">
                         </div>
                         <h3 class="mb-3">Innovative Solutions</h3>
-                        <p class="mb-0">We embrace cutting-edge technologies and creative thinking to deliver innovative solutions tailored to each project. From sustainable design strategies to smart space utilization, our goal is to exceed expectations through unique, forward-thinking approaches that redefine modern architecture.</p>
+                        <p class="mb-0">By combining modern technology with design expertise, we create smart, adaptive solutions tailored to meet each project’s distinct challenges.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -45,7 +45,7 @@
                             <img src="/frontend/img/icons/icon-4.png" alt="Icon">
                         </div>
                         <h3 class="mb-3">Project Management</h3>
-                        <p class="mb-0">Our project management ensures every phase runs smoothly—from initial concept to final delivery. With clear communication, efficient timelines, and budget control, we coordinate all aspects to keep your project on track, ensuring quality results and client satisfaction.</p>
+                        <p class="mb-0">Our efficient project management ensures smooth coordination, clear communication, and timely delivery without compromising quality.</p>
                     </div>
                 </div>
             </div>

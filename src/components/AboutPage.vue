@@ -22,8 +22,8 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="/frontend/img/Ullapara/3.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/img/Ullapara/10.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/img/Ullapara/3.webp" alt="">
+                        <img class="img-fluid" src="/frontend/img/Ullapara/10.webp" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -50,7 +50,7 @@
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <h4 class="section-title">About the Lead Architect</h4>
+                    <h4 class="section-title">About the Lead Architect</h4><br>
                     <p class="mb-4" style="text-align: justify;"><span> Ar. Akash Ahm is the founder and lead architect of ARCHITHOUSAND. He graduated with a Bachelor of Architecture in 2017 and began his professional journey working at several respected local architecture firms in Bangladesh. These early experiences allowed him to gain valuable insight into design processes, client needs, and the local construction context.</span><br><br>
 
                           <span> In 2019, Akash started working independently, taking on both local and international projects. His approach blends creativity with functionality, focusing on design solutions that are contextual, meaningful, and human-centered. By 2020, ARCHITHOUSAND began to take shape as a dedicated design studio—growing steadily under his leadership.</span><br><br>
@@ -90,9 +90,9 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     
-                        <img class="img-fluid" src="/frontend/img/Sarker Duplex/5.jpg" alt=""><br><br>
-                        <img class="img-fluid" src="/frontend/img/Sarker Duplex/19.jpg" alt=""><br><br>
-                        <img class="img-fluid" src="/frontend/img/VILLA FABULOSA/1.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/img/Sarker Duplex/5.webp" alt=""><br><br>
+                        <img class="img-fluid" src="/frontend/img/Sarker Duplex/6.webp" alt=""><br><br>
+                        <img class="img-fluid" src="/frontend/img/VILLA FABULOSA/1.webp" alt="">
 
                 </div>
             </div>

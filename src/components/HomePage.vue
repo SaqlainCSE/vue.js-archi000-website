@@ -24,7 +24,7 @@
             <!-- First Slide -->
 
             <div class="carousel-item active">
-              <img class="img-fluid" src="/frontend/img/Ullapara/3.jpg" alt="Slide 3">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/1.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -39,7 +39,7 @@
             </div>
 
             <div class="carousel-item">
-              <img class="img-fluid" src="/frontend/img/Ullapara/1.jpg" alt="Slide 3">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/2.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -54,7 +54,7 @@
             </div>
 
             <div class="carousel-item">
-              <img class="img-fluid" src="/frontend/img/Ullapara/8.jpg" alt="Slide 3">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/3.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -69,7 +69,7 @@
             </div>
 
             <div class="carousel-item">
-              <img class="img-fluid" src="/frontend/img/Ullapara/10.jpg" alt="Slide 3">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/4.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -84,7 +84,7 @@
             </div>
 
             <div class="carousel-item">
-              <img class="img-fluid" src="/frontend/img/Ullapara/11.jpg" alt="Slide 3">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/5.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -99,7 +99,7 @@
             </div>
 
             <div class="carousel-item">
-              <img class="img-fluid" src="/frontend/img/Ullapara/17.jpg" alt="Slide 3">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/6.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -114,7 +114,7 @@
             </div>
 
             <div class="carousel-item">
-              <img class="img-fluid" src="/frontend/img/Sarker Duplex/19.jpg" alt="Slide 3">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/7.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -129,37 +129,7 @@
             </div>
 
             <div class="carousel-item">
-              <img class="img-fluid" src="/frontend/img/Sarker Duplex/2.jpg" alt="Slide 3">
-              <div class="carousel-caption d-none d-md-block">
-                <div class="container">
-                  <div class="row justify-content-start">
-                    <!-- <div class="col-10 col-lg-8">
-                      <h1 class="display-1 text-white">Best Architecture And Interior Design Services</h1>
-                      <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                      <a href="#" class="btn btn-primary py-3 px-5">Read More</a>
-                    </div> -->
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="carousel-item">
-              <img class="img-fluid" src="/frontend/img/Sarker Duplex/5.jpg" alt="Slide 3">
-              <div class="carousel-caption d-none d-md-block">
-                <div class="container">
-                  <div class="row justify-content-start">
-                    <!-- <div class="col-10 col-lg-8">
-                      <h1 class="display-1 text-white">Best Architecture And Interior Design Services</h1>
-                      <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                      <a href="#" class="btn btn-primary py-3 px-5">Read More</a>
-                    </div> -->
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="carousel-item">
-              <img class="img-fluid" src="/frontend/img/VILLA FABULOSA/1.jpg" alt="Slide 1">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/8.webp" alt="Slide 1">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -174,7 +144,7 @@
             </div>
             <!-- Second Slide -->
             <div class="carousel-item">
-              <img class="img-fluid" src="/frontend/img/VILLA FABULOSA/2.jpg" alt="Slide 2">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/9.webp" alt="Slide 2">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
@@ -189,7 +159,37 @@
             </div>
             <!-- Third Slide -->
             <div class="carousel-item">
-              <img class="img-fluid" src="/frontend/img/VILLA FABULOSA/3.jpg" alt="Slide 3">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/10.webp" alt="Slide 3">
+              <div class="carousel-caption d-none d-md-block">
+                <div class="container">
+                  <div class="row justify-content-start">
+                    <!-- <div class="col-10 col-lg-8">
+                      <h1 class="display-1 text-white">Best Architecture And Interior Design Services</h1>
+                      <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
+                      <a href="#" class="btn btn-primary py-3 px-5">Read More</a>
+                    </div> -->
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="carousel-item">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/11.webp" alt="Slide 3">
+              <div class="carousel-caption d-none d-md-block">
+                <div class="container">
+                  <div class="row justify-content-start">
+                    <!-- <div class="col-10 col-lg-8">
+                      <h1 class="display-1 text-white">Best Architecture And Interior Design Services</h1>
+                      <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
+                      <a href="#" class="btn btn-primary py-3 px-5">Read More</a>
+                    </div> -->
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="carousel-item">
+              <img class="img-fluid" src="/frontend/img/SLIDEING/12.webp" alt="Slide 3">
               <div class="carousel-caption d-none d-md-block">
                 <div class="container">
                   <div class="row justify-content-start">
