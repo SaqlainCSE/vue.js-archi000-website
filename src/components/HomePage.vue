@@ -272,7 +272,7 @@
     }
 
     .img-fluid {
-      width: 1270px !important;
+      width: 100% !important;
       height: 660px !important;
   }
 }
