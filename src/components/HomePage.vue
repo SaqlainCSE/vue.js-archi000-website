@@ -231,7 +231,7 @@
 @media (min-width: 900px) and (max-width: 1440px) {
 
     .img-fluid {
-      width: 1160px !important;
+      width: 100% !important;
       height: 660px !important;
   }
 }
