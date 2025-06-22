@@ -9,10 +9,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <router-link to="/" class="nav-item nav-link" exact-active-class="active">Home</router-link>
-                <router-link to="about" class="nav-item nav-link" exact-active-class="active">About</router-link>
-                <router-link to="project" class="nav-item nav-link" exact-active-class="active">Portfolio</router-link>
-                <router-link to="service" class="nav-item nav-link" exact-active-class="active">Services</router-link>
+                <router-link to="/" class="nav-item nav-link" exact-active-class="active" @click="collapseNavbar">Home</router-link>
+                <router-link to="about" class="nav-item nav-link" exact-active-class="active" @click="collapseNavbar">About</router-link>
+                <router-link to="project" class="nav-item nav-link" exact-active-class="active" @click="collapseNavbar">Portfolio</router-link>
+                <router-link to="service" class="nav-item nav-link" exact-active-class="active" @click="collapseNavbar">Services</router-link>
                 <!-- <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu border-0 m-0">
@@ -21,7 +21,7 @@
                         <router-link to="/client" class="dropdown-item">Clients</router-link>
                     </div>
                 </div> -->
-                <router-link to="/contact" class="nav-item nav-link" exact-active-class="active">Contact</router-link>
+                <router-link to="/contact" class="nav-item nav-link" exact-active-class="active" @click="collapseNavbar">Contact</router-link>
             </div>
             <router-link to="/contact" class="btn btn-primary py-2 px-4 d-none d-lg-block">Appointment</router-link>
         </div>
@@ -33,11 +33,18 @@
 
 export default {
   name: 'HeaderComponent',
-  data() {
-    return {
-      
-    };
-  }
+  methods: {
+    collapseNavbar() {
+      if (window.innerWidth < 992) {
+        const navbar = document.getElementById('navbarCollapse');
+        if (navbar) {
+          // eslint-disable-next-line no-undef
+          const bsCollapse = bootstrap.Collapse.getInstance(navbar) || new bootstrap.Collapse(navbar, { toggle: false });
+          bsCollapse.hide();
+        }
+      }
+    }
+  },
 };
 </script>
 
