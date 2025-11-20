@@ -242,13 +242,13 @@
 }
 
 .carousel-inner {
-  height: 100vh;
+  height: 100vh !important;
 }
 
 .carousel-inner img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover; /* makes images responsive and fills screen */
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important; 
 }
 
 @media (max-width: 767.98px) {
