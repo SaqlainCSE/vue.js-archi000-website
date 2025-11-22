@@ -249,6 +249,7 @@
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important; 
+  padding: 50px !important;
 }
 
 @media (max-width: 767.98px) {
