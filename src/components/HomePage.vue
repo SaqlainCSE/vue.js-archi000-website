@@ -228,6 +228,14 @@
 
 <style scoped>
 
+@media (min-width: 768px) and (max-width: 899px) {
+
+    .img-fluid {
+      width: 100% !important;
+      height: 600px !important;
+  }
+}
+
 @media (min-width: 900px) and (max-width: 1440px) {
 
     .img-fluid {
@@ -254,7 +262,7 @@
 
 @media (max-width: 767.98px) {
   .carousel-inner{
-    height: auto;         /* Allow content to define height */
+    height: auto !important;         /* Allow content to define height */
     padding: 0px;   /* Smaller padding on mobile */
   }
 
